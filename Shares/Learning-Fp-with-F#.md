@@ -22,8 +22,5 @@ In the class, he talked about Map, Functor patterns, I didn't fully follow him. 
 
 The github repo is [https://github.com/willsam100/Learn-fp-with-fsharp](https://github.com/willsam100/Learn-fp-with-fsharp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzEwNjg0MCwyMDA2Mzc1MjQ1LC03Nj
-c4NzkxODIsLTEzMDQ1ODM0MTIsMTQ5ODc4ODQzMiwtMTc5NDY4
-NjI2MywxNjg4MDk5NTgxLC0yMDY3Mjg5MzgzLDEwNjg5MDY4MD
-UsLTE2NTIxODk2NTBdfQ==
+eyJoaXN0b3J5IjpbLTExMzEwNjg0MF19
 -->
