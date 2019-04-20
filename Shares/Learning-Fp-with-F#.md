@@ -8,7 +8,7 @@ In the middle break of the meetup, I asked Sam how did you convince your manager
 
 It made me think why Fp is so attractive to him and many other developers?
 
->  * Function is immultable. 
+> * Function is immultable. 
 > * Code is a proved programme. Only need to write a few extreme test cases.
 > * Type is F# makes more sense, like Null, boolean etc. 
 > * Code of Fp is statement; Code in OO is expression.
@@ -16,9 +16,9 @@ It made me think why Fp is so attractive to him and many other developers?
 
 In the class, he talked about Map, Functor patterns, I didn't fully follow him. I will dig them more later. And some other topics I am interested in
 
-* How Fp deal with I/O?
-* What is design pattern in Fp?
-* What other patterns besides Map, Functor?
+* How does Fp deal with I/O?
+* How are design pattern used in Fp?
+* What are other patterns besides Map, Functor?
 
 The github repo is [https://github.com/willsam100/Learn-fp-with-fsharp](https://github.com/willsam100/Learn-fp-with-fsharp)
 <!--stackedit_data:
