@@ -6,8 +6,10 @@ Before going to that meetup, I knew a little bit about Haskell, but never use it
 
 In the middle break of the meetup, I asked Sam how did you convince your manager to allow you to use F# in the project, as he mentioned it was a C# project. His answer is quite understandable, "very carefully", he spent around 2 years to adv FP in his work and in the end he used it without any permission. What a brave man!
 
-It made 
+It made me think why Fp is so attractive to him and many other developers?
+
+> It is immu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDczMzE4OTgsMTY4ODA5OTU4MSwtMj
-A2NzI4OTM4MywxMDY4OTA2ODA1LC0xNjUyMTg5NjUwXX0=
+eyJoaXN0b3J5IjpbMjA4OTMzMjM1MSwxNjg4MDk5NTgxLC0yMD
+Y3Mjg5MzgzLDEwNjg5MDY4MDUsLTE2NTIxODk2NTBdfQ==
 -->
