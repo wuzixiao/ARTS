@@ -8,9 +8,10 @@ In the middle break of the meetup, I asked Sam how did you convince your manager
 
 It made me think why Fp is so attractive to him and many other developers?
 
-> * It is immutable. 
-> * It is a pr
+> * It is immultable. 
+> * It is a proved programme. Only need to write a few extreme test cases.
+> * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzU1MjE5MSwxMDY4OTA2ODA1LC0xNj
-UyMTg5NjUwXX0=
+eyJoaXN0b3J5IjpbLTE0ODgyNzI1NzksMTA2ODkwNjgwNSwtMT
+Y1MjE4OTY1MF19
 -->
