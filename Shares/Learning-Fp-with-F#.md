@@ -8,8 +8,9 @@ In the middle break of the meetup, I asked Sam how did you convince your manager
 
 It made me think why Fp is so attractive to him and many other developers?
 
-> It is immu
+> It is immul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTMzMjM1MSwxNjg4MDk5NTgxLC0yMD
-Y3Mjg5MzgzLDEwNjg5MDY4MDUsLTE2NTIxODk2NTBdfQ==
+eyJoaXN0b3J5IjpbLTE3OTQ2ODYyNjMsMjA4OTMzMjM1MSwxNj
+g4MDk5NTgxLC0yMDY3Mjg5MzgzLDEwNjg5MDY4MDUsLTE2NTIx
+ODk2NTBdfQ==
 -->
