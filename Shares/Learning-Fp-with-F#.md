@@ -8,9 +8,10 @@ In the middle break of the meetup, I asked Sam how did you convince your manager
 
 It made me think why Fp is so attractive to him and many other developers?
 
-> It is immul
+> * It is immultable. 
+> * It is a proved
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ2ODYyNjMsMjA4OTMzMjM1MSwxNj
-g4MDk5NTgxLC0yMDY3Mjg5MzgzLDEwNjg5MDY4MDUsLTE2NTIx
-ODk2NTBdfQ==
+eyJoaXN0b3J5IjpbNTkyOTY4OTksLTE3OTQ2ODYyNjMsMTY4OD
+A5OTU4MSwtMjA2NzI4OTM4MywxMDY4OTA2ODA1LC0xNjUyMTg5
+NjUwXX0=
 -->
