@@ -14,9 +14,9 @@ It made me think why Fp is so attractive to him and many other developers?
 > * Code of Fp is statement; Code in OO is expression.
 > * Fp is suitable for programme that has complex business logic.
 
-In the
+In the class, he talked about Map, Functor patterns, I didn't fully follow him.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTQ4MzQ0LDIwMDYzNzUyNDUsLTc2Nz
+eyJoaXN0b3J5IjpbMTk1ODYyNjM1LDIwMDYzNzUyNDUsLTc2Nz
 g3OTE4MiwtMTMwNDU4MzQxMiwxNDk4Nzg4NDMyLC0xNzk0Njg2
 MjYzLDE2ODgwOTk1ODEsLTIwNjcyODkzODMsMTA2ODkwNjgwNS
 wtMTY1MjE4OTY1MF19
