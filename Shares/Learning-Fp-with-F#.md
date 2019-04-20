@@ -8,13 +8,14 @@ In the middle break of the meetup, I asked Sam how did you convince your manager
 
 It made me think why Fp is so attractive to him and many other developers?
 
->  * Function is immultable. 
-> * Code is a proved programme. Only need to write a few extreme test cases.
+>   uncti is immultable. 
+> * de is a proved programme. Only need to write a few extreme test cases.
 > * Type is F# makes more sense, like Null, boolean etc. 
 > * Code of Fp is statement; Code in OO is expression.
 > * Fp is suitable for programme that has complex business logic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Nzg3OTE4MiwtMTMwNDU4MzQxMiwxND
-k4Nzg4NDMyLC0xNzk0Njg2MjYzLDE2ODgwOTk1ODEsLTIwNjcy
-ODkzODMsMTA2ODkwNjgwNSwtMTY1MjE4OTY1MF19
+eyJoaXN0b3J5IjpbMjAwNjM3NTI0NSwtNzY3ODc5MTgyLC0xMz
+A0NTgzNDEyLDE0OTg3ODg0MzIsLTE3OTQ2ODYyNjMsMTY4ODA5
+OTU4MSwtMjA2NzI4OTM4MywxMDY4OTA2ODA1LC0xNjUyMTg5Nj
+UwXX0=
 -->
