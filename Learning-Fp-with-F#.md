@@ -8,8 +8,9 @@ In the middle break of the meetup, I asked Sam how did you convince your manager
 
 It made me think why Fp is so attractive to him and many other developers?
 
-> It is i
+> * It is immutable. 
+> * It is a pr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYxODk0MDgsMTA2ODkwNjgwNSwtMT
-Y1MjE4OTY1MF19
+eyJoaXN0b3J5IjpbMTE3MzU1MjE5MSwxMDY4OTA2ODA1LC0xNj
+UyMTg5NjUwXX0=
 -->
