@@ -1,6 +1,6 @@
 # Learn Fp with F# (1)
 
-Last week
+Last week, I went to the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDA2NzI4LC0xNjUyMTg5NjUwXX0=
+eyJoaXN0b3J5IjpbMTA2ODkwNjgwNSwtMTY1MjE4OTY1MF19
 -->
