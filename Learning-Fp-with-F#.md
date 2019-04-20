@@ -10,8 +10,10 @@ It made me think why Fp is so attractive to him and many other developers?
 
 >  * Function is immultable. 
 > * Code is a proved programme. Only need to write a few extreme test cases.
-> * Type is F# makes more sense, like Null,
+> * Type is F# makes more sense, like Null, boolean etc. 
+> * Code of Fp is statement; Code in OO is expression.
+> * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjkwOTA2NSwxNDk4Nzg4NDMyLDEwNj
+eyJoaXN0b3J5IjpbLTQwNDMyMjU0NywxNDk4Nzg4NDMyLDEwNj
 g5MDY4MDUsLTE2NTIxODk2NTBdfQ==
 -->
