@@ -16,10 +16,10 @@ It made me think why Fp is so attractive to him and many other developers?
 
 In the class, he talked about Map, Functor patterns, I didn't fully follow him. I will dig them more later. And some other topics I am interested in
 
-* How Fp do I/O?
+* How Fp deal with I/O?
 * What is design pattern in Fp?
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ0MTkwMDYsLTc2Nzg3OTE4MiwxND
-k4Nzg4NDMyLDEwNjg5MDY4MDUsLTE2NTIxODk2NTBdfQ==
+eyJoaXN0b3J5IjpbMjI3MjI5OTczLC03Njc4NzkxODIsMTQ5OD
+c4ODQzMiwxMDY4OTA2ODA1LC0xNjUyMTg5NjUwXX0=
 -->
