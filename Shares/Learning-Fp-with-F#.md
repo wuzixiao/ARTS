@@ -20,10 +20,10 @@ In the class, he talked about Map, Functor patterns, I didn't fully follow him. 
 * What is design pattern in Fp?
 * What other patterns besides Map, Functor?
 
-The github of 
+The github repo is [https://github.com/willsam100/Learn-fp-with-fsharp](https://github.com/willsam100/Learn-fp-with-fsharp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA1NjUyODQsMjAwNjM3NTI0NSwtNz
-Y3ODc5MTgyLC0xMzA0NTgzNDEyLDE0OTg3ODg0MzIsLTE3OTQ2
-ODYyNjMsMTY4ODA5OTU4MSwtMjA2NzI4OTM4MywxMDY4OTA2OD
-A1LC0xNjUyMTg5NjUwXX0=
+eyJoaXN0b3J5IjpbLTExMzEwNjg0MCwyMDA2Mzc1MjQ1LC03Nj
+c4NzkxODIsLTEzMDQ1ODM0MTIsMTQ5ODc4ODQzMiwtMTc5NDY4
+NjI2MywxNjg4MDk5NTgxLC0yMDY3Mjg5MzgzLDEwNjg5MDY4MD
+UsLTE2NTIxODk2NTBdfQ==
 -->
