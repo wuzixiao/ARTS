@@ -12,8 +12,8 @@ It made me think why Fp is so attractive to him and many other developers?
 > * Code is a proved programme. Only need to write a few extreme test cases.
 > * Type is F# makes more sense, like Null, boolean etc. 
 > * Code of Fp is statement; Code in OO is expression.
-> * 
+> * Fp is suitable for programme that has complex business logic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDMyMjU0NywxNDk4Nzg4NDMyLDEwNj
+eyJoaXN0b3J5IjpbLTc2Nzg3OTE4MiwxNDk4Nzg4NDMyLDEwNj
 g5MDY4MDUsLTE2NTIxODk2NTBdfQ==
 -->
