@@ -8,11 +8,11 @@ In the middle break of the meetup, I asked Sam how did you convince your manager
 
 It made me think why Fp is so attractive to him and many other developers?
 
-> * The function is immultable. 
-> * The code is a proved programme. Only need to write a few extreme test cases.
+>  The functionIt is immultable. 
+> * The codeIt is a proved programme. Only need to write a few extreme test cases.
 > * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODc4ODQzMiwtMTc5NDY4NjI2MywxNj
-g4MDk5NTgxLC0yMDY3Mjg5MzgzLDEwNjg5MDY4MDUsLTE2NTIx
-ODk2NTBdfQ==
+eyJoaXN0b3J5IjpbLTEzMDQ1ODM0MTIsMTQ5ODc4ODQzMiwtMT
+c5NDY4NjI2MywxNjg4MDk5NTgxLC0yMDY3Mjg5MzgzLDEwNjg5
+MDY4MDUsLTE2NTIxODk2NTBdfQ==
 -->
