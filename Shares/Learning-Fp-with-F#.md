@@ -18,10 +18,12 @@ In the class, he talked about Map, Functor patterns, I didn't fully follow him. 
 
 * How Fp deal with I/O?
 * What is design pattern in Fp?
-* 
+* What other patterns besides Map, Functor?
+
+The github of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MjI5OTczLDIwMDYzNzUyNDUsLTc2Nz
-g3OTE4MiwtMTMwNDU4MzQxMiwxNDk4Nzg4NDMyLC0xNzk0Njg2
-MjYzLDE2ODgwOTk1ODEsLTIwNjcyODkzODMsMTA2ODkwNjgwNS
-wtMTY1MjE4OTY1MF19
+eyJoaXN0b3J5IjpbLTE3MDA1NjUyODQsMjAwNjM3NTI0NSwtNz
+Y3ODc5MTgyLC0xMzA0NTgzNDEyLDE0OTg3ODg0MzIsLTE3OTQ2
+ODYyNjMsMTY4ODA5OTU4MSwtMjA2NzI4OTM4MywxMDY4OTA2OD
+A1LC0xNjUyMTg5NjUwXX0=
 -->
