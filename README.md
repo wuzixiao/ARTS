@@ -5,3 +5,4 @@
 * T is short for Tip. Find at least a useful tip or tool for learning or work.
 * S is short for Sharing. Write at least a article or make a vlog per week.
 
+I will be focus on Data Process, FP, DB, Cloud and Microservice topics.
