@@ -8,10 +8,10 @@ In the middle break of the meetup, I asked Sam how did you convince your manager
 
 It made me think why Fp is so attractive to him and many other developers?
 
-> * The function is immultable. 
-> * The code is a proved programme. Only need to write a few extreme test cases.
-> * 
+>  * Function is immultable. 
+> * Code is a proved programme. Only need to write a few extreme test cases.
+> * Type is F# makes more sense, like Null,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODc4ODQzMiwxMDY4OTA2ODA1LC0xNj
-UyMTg5NjUwXX0=
+eyJoaXN0b3J5IjpbMjA0MjkwOTA2NSwxNDk4Nzg4NDMyLDEwNj
+g5MDY4MDUsLTE2NTIxODk2NTBdfQ==
 -->
