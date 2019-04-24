@@ -23,7 +23,7 @@ Last month, I received a test as below:
                 for(var b = a+1; b < lstPrimes.Count(); b++) {
                     for(var c = b+1; c < lstPrimes.Count(); c++) {
                         for(var d = c+1; d < lstPrimes.Count(); d++) {
-                            if(IsSeqInt(lstPrimes[a]*lstPrimes[b] * lstPrimes[c] *lstPrimes[d])) {
+                            if(IsSeqInt((long)lstPrimes[a]*lstPrimes[b] * lstPrimes[c] *lstPrimes[d])) {
                                 return new int[] {lstPrimes[a],lstPrimes[b],lstPrimes[c],lstPrimes[d]};
                             }
                         }
@@ -34,7 +34,7 @@ Last month, I received a test as below:
             return null;
         }
 
-        public bool IsSeqInt(int n)
+        public bool IsSeqInt(long n)
         {
             var str = n.ToString();
             if(str.Length != 12) return false;
@@ -72,4 +72,4 @@ Last month, I received a test as below:
         }
 ```
 
-The result is null!
+One of the results is : 863 * 811 * 563 * 313 = 123334444567
