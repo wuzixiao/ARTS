@@ -1,4 +1,4 @@
-# Introduction to tensorflow (1)
+# Introduction to tensorflow -- one
 
 Yesterday, I came across a course on coursera. It is [Introduction to tensorflow](https://www.coursera.org/learn/introduction-tensorflow). I heard about it several years ago and I thought it is very complex so I didn't pay much attention to it. But the course is only 4weeks long and taught by a famous guy working in Google, and it is free for audit. Why not give it a try this week?
 
