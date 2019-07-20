@@ -48,9 +48,52 @@
 > [2, 1], [5, 1], [2, 2, 2] with a large sum of 6.
 > The goal is to minimize the large sum. In the above example, 6 is the minimal large sum.The goal is to minimize the large sum. In the above example, 6 is the minimal large sum.
 
-I think this problem for a couple of days without a good solution. Because I thought I must find a way to divide the array with the min of max sum of subarray. 
+I've been thinkg this problem for a couple of days without a good solution. I thought there should be a way to divide the array with the min of max sum of subarray. 
 
-Actually, the solution is to try with a number with is between A.Sum() and A.Max() to test the condition. If the condition is satisfied，trying with a smaller one until the min found.
+Actually, the solution is to try with a number which is between A.Sum() and A.Max() to test the condition. If the condition is satisfied，trying with a smaller one until the min found.
 
 * Code *
 
+```c#
+        private int getBlocks(int[] A, int mid)
+        {
+            var blocks = 1;
+            var curSum = 0;
+            foreach(var a in A)
+            {
+                if(curSum+a > mid)
+                {
+                    blocks += 1;
+                    curSum = a; //the first element of next block is a
+                }
+                else
+                {
+                    curSum += a;
+                }
+            }
+
+            return blocks;
+        }
+
+        public int MinMaxDivision(int K, int M, int[] A)
+        {
+            int max = A.Sum();
+            int min = A.Max();
+            while (min < max)
+            {
+                var mid = (min + max) / 2;
+                var blocks = getBlocks(A, mid);
+                if (blocks > K)
+                {
+                    min = mid+1;
+                }
+                else 
+                { 
+                    max = mid;
+                }
+            }
+
+            return min;
+        }
+    }
+```
