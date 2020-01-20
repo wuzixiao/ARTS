@@ -1,6 +1,14 @@
 from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
 import xml.etree.ElementTree as ET
 import sys
+currentDirectory = os.getcwd()
+
+print(currentDirectory)
+
+'''
+    Change the Current working Directory
+'''
+os.chdir('/home/varun')
 
 #command line ops https://www.tutorialspoint.com/python/python_command_line_arguments.htm
 inputFile = sys.argv[1]
