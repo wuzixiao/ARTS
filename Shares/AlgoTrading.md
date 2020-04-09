@@ -131,11 +131,58 @@
 
 ### Test algo accuracy
 
-* BigBuy = If(StandDiviation + Close < MovingAvarage, 1, 0)
+* BigBuy = If(StandDiviation + ClosePrice < MovingAvarage, 1, 0)
 * StandDiviation is =STDEV.S(E2:E121)
 * 1DayReturn = If(yesterdaybuy, (PriceOfToday-PriceOfYesterday)/PriceOfYesterday, (PriceOfYesterday-PriceOfToday)/PriceOfYesterday)   I don't understand the else part
   
 ### Algo profitablitlity and trading decisions
 
+* BigBuy Return = If(BigBuy, (PriceOfToday-PriceOfYesterday)/PriceOfYesterday, 0)
+* The BigBuy Return is not quite promissing compared to day buy.But BigBuy use less money.
+* Modified BigBuy Return = If(BigBuyReturn<0, BigBuyReturn, If(BigBuyReturn>0, BigBuyReturn, ""))
+* Then you will find the average return is better.
+
+### Economic data and stock correlations
+
+* =correl() : correlation of VIX vs BBB, S&P vs BBB
+
+### Predict economic variables
+
+* Use regression analysis
+* tool: install: File->Options->Add-ins->ManageExcelAdd-in->Data Analysis Tool
+* R Squrare?
+* Statically significate?
+
+### Advanced Algo
+
+* Use the regression result build up a model on Excel
+
+## Using Trading Algo
+
+### Buy and sell with algo
+
+* Analysis and trading use different system
+* Automating to make trade directly can be dangerous
+* Raft of factors
+    * Liquidity in a stock
+    * Bid-ask spread
+    * Removal of human "brake"
+* Think are you provide or use the Liqudity, If you provide, your cost is low
+
+### Expand the algo to aother securities
+
+* Diversification is key to any protfolio
+* Look for algo strategies that complement one another
+* Consider evaluating returns based on days when capital is used rather than absolute annual returns
+* Bonds are a good source of low-correlation trades with equities
+* Bond trading is harder but not impossible
+* TRACE and MSRB are good sources for bond trading
+
+#### Scenario analysis in investing
+
+* VAR : 95% of time we expect to loss no more than X
+* Expect shortfall 
+    * 95% VAR is broken once a month!
+    * captures tail risks
 
 
