@@ -37,7 +37,7 @@ def maxSubArray_fail(nums: List[int]) -> int:
 
     return ret
 
-def maxSubArray(nums: List[int]) -> int:
+def maxSubArray_work1(nums: List[int]) -> int:
     if len(nums) == 0:
         return 0
     cur_max = nums[0]
@@ -50,6 +50,17 @@ def maxSubArray(nums: List[int]) -> int:
             cur_max = max(i + cur_max,i)
 
     return max(last_max, cur_max)
+
+def maxSubArray(nums: List[int]) -> int:
+    if len(nums) == 0:
+        return 0
+    
+    cur_max = nums[0]
+    for i in range(1, len(nums)):
+        nums[i] = max(nums[i-1]+nums[i], nums[i])
+        cur_max = max(cur_max, nums[i])
+    
+    return cur_max
 
 if __name__ == "__main__":
     test_case = TestCase()

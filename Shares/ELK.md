@@ -203,6 +203,92 @@ GET bank/account/_search
 ```
 
 * Filtering aggregations
+    1. Query level
+       1. bool -> must/must_not -> match/range
+    2. aggregation level
+       1. "aggs" -> "Name" -> "terms"/"aggs"/"filter"
+
+```javascript
+GET bank/account/_search
+{
+  "size":0 ,
+  "query": {
+    "bool":{
+      "must": [
+        {"match": {"state.keyword" : "CA"}}
+      ]
+    }
+  },
+  "aggs": {
+    "over35": {
+      "filter": {
+        "range":{"age":{"gt":35}}
+      },
+      "aggs": {
+        "ban": {
+          "avg": {"field":"balance"}
+        }
+      }
+    }
+  }
+}
+```
+
 * Percentiles and histograms
 
+```javascript
+GET bank/account/_search
+{
+  "size":0,
+  "aggs": {
+    "pct": {
+      "percentiles": {
+        "field": "balance",
+        "percents": [
+          1,
+          5,
+          25,
+          50,
+          75,
+          95,
+          99
+        ]
+      }
+    }
+  }
+}
+
+GET bank/account/_search
+{
+  "size":0,
+  "aggs": {
+    "ptc": {
+      "percentile_ranks": {
+        "field": "balance",
+        "values": [
+          35000,
+          50000
+        ],
+        "hdr":{
+          "number_of_significant_value_digits":3
+        }
+      }
+    }
+  }
+}
+
+
+GET bank/account/_search
+{
+  "size": 0,
+  "aggs": {
+    "bals": {
+      "histogram": {
+        "field": "balance",
+        "interval": 500
+      }
+    }
+  }
+}
+```
 
